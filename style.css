@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.clock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: yellow;
+    font-size: 60px;
+    border: 1px dashed #fff;
+    width: 500px;
+    text-align: center;
+    border-radius: 10px;
+}
